@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "609203792412",
+    "project_id": "farm-ek-sath-de5f5",
+    "storage_bucket": "farm-ek-sath-de5f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609203792412:android:7c35ff6cd3dbc339500dd9",
+        "android_client_info": {
+          "package_name": "com.siproject.farm_ek_sath"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609203792412-6496n7vvageindmprp2j5g7ga9qp7s1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc4dUwkVxWnYpu7vh3GpLLktaqAjqquW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609203792412-6496n7vvageindmprp2j5g7ga9qp7s1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
